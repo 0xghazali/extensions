@@ -1,5 +1,5 @@
 # *Google Extensions*
-
+# 1 - Clipboard Cleaner — Advanced >> https://chromewebstore.google.com/detail/clipboard-cleaner-%E2%80%94-advan/giiijckfighdgnlelibmdjdlklpekadc
 
 
 
