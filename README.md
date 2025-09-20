@@ -5,6 +5,7 @@
 # 4 - Recon Snapshot >> https://chromewebstore.google.com/detail/recon-snapshot/damagbhcopmhjabmheanlfgonammpcpo
 # 5 - Timing Side-Channel Profiler (TSP) >>
 # 6 - Session Hijack Guard >> 
+# 7 - Network Privacy & Leak Defender (NPLD) >>
 
 # *Firefox Extensions*
 # 1 - Metadata Remover >> https://addons.mozilla.org/en-US/firefox/addon/metadata-remover/
@@ -13,3 +14,4 @@
 # 4 - Recon Snapshot >> https://addons.mozilla.org/en-US/firefox/addon/recon-snapshot/
 # 5 - Timing Side-Channel Profiler (TSP) >> https://addons.mozilla.org/en-US/firefox/addon/timing-side-channel-profiler/
 # 6 - Session Hijack Guard >> https://addons.mozilla.org/en-US/firefox/addon/session-hijack-guard/
+# 7 - Network Privacy & Leak Defender (NPLD) >> https://addons.mozilla.org/en-US/firefox/addon/network-privacy-leak-defender/
