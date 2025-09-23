@@ -4,8 +4,8 @@
 # 3 - DOM XSS Highlighter — Pro >> https://chromewebstore.google.com/detail/dom-xss-highlighter-%E2%80%94-pro/dcmahamcnljjgnpmgdldjnblplmibapc
 # 4 - Recon Snapshot >> https://chromewebstore.google.com/detail/recon-snapshot/damagbhcopmhjabmheanlfgonammpcpo
 # 5 - Timing Side-Channel Profiler (TSP) >>
-# 6 - Session Hijack Guard >> 
-# 7 - Network Privacy & Leak Defender (NPLD) >>
+# 6 - Session Hijack Guard >> https://chromewebstore.google.com/detail/session-hijack-guard/hgpmfcjdcjioieenmfeiecknlibjifkk
+# 7 - Network Privacy & Leak Defender (NPLD) >> https://chromewebstore.google.com/detail/timing-side-channel-profi/jfmffjjdfmeahnohmieibnlcknbokcep
 
 # *Firefox Extensions*
 # 1 - Metadata Remover >> https://addons.mozilla.org/en-US/firefox/addon/metadata-remover/
